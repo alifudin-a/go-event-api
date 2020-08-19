@@ -1,1 +1,1 @@
-# go-vote-api
+# go-event-api
